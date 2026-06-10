@@ -5,7 +5,7 @@ A modern movie search application built with React + Vite that allows users to d
 Live Demo
 
 Add your deployed link here
-https://your-app.vercel.app
+[https://your-app.vercel.app](https://movie-search-app-kappa-black.vercel.app/)
 
 Preview
 
