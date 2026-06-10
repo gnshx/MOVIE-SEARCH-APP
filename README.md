@@ -13,14 +13,28 @@ Preview
 Home Page
 ![alt text](image.png)
 
+
+
+
 Search Results
 ![alt text](image-1.png)
 
+
+
+
 Movie Details View
 ![alt text](image-2.png)
+
+
+
+
 you will get detailed view of ratings,orginal language,brief about the movie
 Trending Searches
 ![alt text](image-3.png)
+
+
+
+
 as searches increase movie becomes trending 
 
 Features
